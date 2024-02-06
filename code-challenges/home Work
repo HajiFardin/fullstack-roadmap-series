@@ -1,0 +1,16 @@
+/* 
+My home Work from the first lesson 
+
+const muBoolean = true;
+let myString = 'Hello world';
+const firstNumber = 20;
+let secondNumber = 40;
+secondNumber = 80;
+
+let myArray = ['myBoolean', 'myString'];
+
+const myObject = {
+      myArray: firstProperty = [firstNumber + secondNumber]
+}
+console.log(myObject.myArray);
+console.log(myArray[1]); */
